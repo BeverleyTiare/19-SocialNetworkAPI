@@ -96,7 +96,6 @@ In the CLI at the project source, enter:
 ``npm start``
 Once the server commences, mongoose schemas sync to the MongoDB.
 Connect to the mongoDB URI: ``mongodg://localhost:27017``.
-Click ``socialDB `` to view ``users and thoughts `` data.
 Use Insomnia (https://insomnia.rest/) to both create seed data and to test API endpoints.
 
 
