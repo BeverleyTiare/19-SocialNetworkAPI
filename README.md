@@ -100,10 +100,10 @@ Click ``socialDB `` to view ``users and thoughts `` data.
 Use Insomnia (https://insomnia.rest/) to both create seed data and to test API endpoints.
 
 
-## Links TODO !!
+## Links 
 Walk through Video Demos: https://drive.google.com/file/d/1rVy4tTPPJPcW8DUjwR8hmn2PwynUoTZJ/view
 
-URL of Github repository:
+URL of Github repository: https://github.com/BeverleyTiare/19-SocialNetworkAPI
 
 
 ## Acknowledgements
