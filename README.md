@@ -104,6 +104,9 @@ Walk through Video Demos: https://drive.google.com/file/d/1rVy4tTPPJPcW8DUjwR8hm
 
 URL of Github repository: https://github.com/BeverleyTiare/19-SocialNetworkAPI
 
+## Screenshot
+![image](https://github.com/BeverleyTiare/19-SocialNetworkAPI/assets/122957548/0b84a4f9-4a0f-4449-9369-7ee162700d0e.png)
+
 
 ## Acknowledgements
 
